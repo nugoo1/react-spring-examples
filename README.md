@@ -1,3 +1,6 @@
+# React Spring Examples
+These examples were taken from the <a href="https://www.react-spring.io/docs/props/spring" target="blank">Traversy Media Tutorial on Youtube</a> as well as the <a href="https://www.youtube.com/watch?v=S8yn3-WpVV8" target="blank">React Spring Documentation.</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
